@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">778835345224</string>
+    <string name="google_api_key" translatable="false">AIzaSyBgbXOphA5JXDAIgoYSug0HcZ8_3CxDt9U</string>
+    <string name="google_app_id" translatable="false">1:778835345224:android:49d2d1c096d85a554dfd7d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBgbXOphA5JXDAIgoYSug0HcZ8_3CxDt9U</string>
+    <string name="google_storage_bucket" translatable="false">flutter-ecom-app-3d31c.appspot.com</string>
+    <string name="project_id" translatable="false">flutter-ecom-app-3d31c</string>
+</resources>
